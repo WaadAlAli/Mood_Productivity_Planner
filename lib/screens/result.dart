@@ -73,7 +73,7 @@ class _ResultScreenState extends State<ResultScreen> {
           // ✅ PROGRESS
           buildProgressCircle(tasks.length, completedTasks.length),
 
-          const SizedBox(height: 20),
+          const SizedBox(height: 30),
 
           const Text(
             "Your Tasks",
